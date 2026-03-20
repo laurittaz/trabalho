@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quimica</title>
+<meta charset="UTF-8">
+<meta name="author"content="Lauritta">
+<meta name="description" content="Tarefa PW1">
+<meta name="keywords" content="sites, tabelas, web">
+</head>
+<body background="img/quimica.jpg">
+</body>
+<font color="pink"><h1>Tabela Periódica</h1></font>
+<table align="center" border="1" bgcolor="pink" bordercolor="white" cellpadding="10" cellspacing="5">
+<tr>
+<td><b>Nome</b></td>
+<td><b>Símbolo</b></td>
+<td><b>Número Atômico</b></td>
+</tr>
+<tr>
+<td>Hidrogênio</td>
+</tr>
+<tr>
+<td>Lítio</td>
+</tr>
+<tr>
+<td>Sódio</td>
+</tr>
+<tr>
+<td>Potássio</td>
+</tr>
+<tr>
+<td>Rubídio</td>
+</tr>
+<tr>
+<td>Céssio</td>
+</tr>
+<tr>
+<td>Frâncio</td>
+</tr>
+<tr>
+<td>
