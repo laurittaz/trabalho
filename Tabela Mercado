@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Tabela Mercado</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body background="img/sonico.jpg">
+	<h1>Preço de Supermercados!</h1>
+<table>
+
+	<thead>
+	<tr>
+	<th>Produto</th>
+	<th>Marca</th>
+	<th>Preço</th>
+	<th>Categoria</th>
+	</tr>
+	</thead>
+
+	<tbody>
+	<tr>
+	<td>Leite</td>
+	<td>Italac</td>
+	<td>R$5.89</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Leite Condensado</td>
+	<td>Italac</td>
+	<td>R$6.89</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Pipoca de Micro-Ondas</td>
+	<td>Yoki</td>
+	<td>R$3.49</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Achocoatado em Pó</td>
+	<td>Nescau</td>
+	<td>R$9.99</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Farinha de Trigo</td>
+	<td>Dona Benta</td>
+	<td>R$4.19</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Mistura para bolo Chocolate</td>
+	<td>Dona Benta</td>
+	<td>R$5.99</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Fermento em Pó</td>
+	<td>Dona Benta</td>
+	<td>R$4.19</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Desinfetante Lavanda</td>
+	<td>Pinho Sol</td>
+	<td>R$19.59</td>
+	<td>limpeza</td>
+	</tr>
+	
+	<tr>
+	<td>Iogurte Morango</td>
+	<td>Danone</td>
+	<td>R$3.69</td>
+	<td>alimentício</td>
+	</tr>
+	
+	<tr>
+	<td>Suco em Pó Laranja</td>
+	<td>Tang</td>
+	<td>R$1.29</td>
+	<td>alimentício</td>
+	</tr>
+    </tbody>
+	
+	</table>
+	</body>
+	</html>
